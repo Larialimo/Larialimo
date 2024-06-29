@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alina
 - 👀 I’m interested in advice how to start a career in IT
-- 🌱 I have done an Intro in IT course and looking to learn more about Database and Testing
+- 🌱 I have done an Intro in IT course and looking to learn more about Databases and Testing
 - 💞️ I’m looking to collaborate on everything that's helpful for beginners
 - 📫 How to reach me: message me :)
 - 😄 Pronouns: She/Her
